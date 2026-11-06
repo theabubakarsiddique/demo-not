@@ -1,2 +1,2 @@
 # demo-not
-a demo to Git &amp; Github
+a demo to Git &amp; Github class.
